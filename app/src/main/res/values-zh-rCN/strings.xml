@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">血压随身</string>
+    <string name="title_home">血压记录</string>
+    <string name="title_dashboard">记录查询</string>
+    <string name="title_notifications">服药时间</string>
+</resources>
